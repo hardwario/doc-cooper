@@ -1,5 +1,5 @@
-Welcome to COOPER's documentation!
-==================================
+COOPER Documentation
+====================
 
 .. toctree::
    :maxdepth: 2
