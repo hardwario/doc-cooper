@@ -1,11 +1,15 @@
+####################
 COOPER Documentation
-====================
+####################
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
+   :numbered:
+   :maxdepth: 2
 
    overview
+   co2-sensor-calibration
+   at-commands
 
 Indices and tables
 ==================
